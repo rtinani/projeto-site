@@ -50,7 +50,7 @@ img{
 
 header{
 	padding:20px 0;
-	background: #3D437A;
+	background: rgb(28, 27, 92);
 }
 
 header .logo{
@@ -58,10 +58,18 @@ header .logo{
 	font-weight: 300;
 	text-transform: uppercase;
 }
-
+/*
 .logo a{
 	text-decoration: none;
 	color: white;
+}*/
+
+.logo img{
+	max-width: 100px;
+	width: 55px;
+	height: 0%;
+	top: 0%;
+	margin: 1px;
 }
 
 .mobile{
@@ -141,8 +149,8 @@ section.banner-container form input[type=submit]{
 	width: 100%;
 	height: 66px;
 	margin-top:10px;
-	background: #00C59E;
-	color: white;
+	background: rgb(28, 27, 92);
+	color: white; 
 	cursor: pointer;
 	font-size: 22px;
 	border: 0;

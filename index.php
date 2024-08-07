@@ -31,7 +31,7 @@
 	?>
 	<header>
 		<div class="center">
-			<div class="logo left"><a href="<?php echo INCLUDE_PATH; ?>">Logomarca</a></div><!--logo-->
+			<div class="logo left"><a href="<?php echo INCLUDE_PATH; ?>"> <img src="images/logo-vetor.png" alt=""></a></div><!--logo-->
 			<nav class="desktop right">
 				<ul>
 					<li><a href="<?php echo INCLUDE_PATH; ?>">Home</a></li>
