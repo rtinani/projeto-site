@@ -1,5 +1,5 @@
 <section class="banner-container">
-	<div style="background-image: url('<?php echo INCLUDE_PATH; ?>images/bg-form.jpg');" class="banner-single"></div><!--banner-single-->
+	<div style="background-image: url('<?php echo INCLUDE_PATH; ?>images/bg-form6.jpg');" class="banner-single"></div><!--banner-single-->
 	<div style="background-image: url('<?php echo INCLUDE_PATH; ?>images/bg-form2.jpg');" class="banner-single"></div><!--banner-single-->
 	<div style="background-image: url('<?php echo INCLUDE_PATH; ?>images/bg-form3.jpg');" class="banner-single"></div><!--banner-single-->
 	<div class="overlay"></div>
@@ -18,7 +18,7 @@
 	<section class="descricao-autor">
 		<div class="center">
 			<div class="w50 left">
-				<h2>Guilherme Grillo</h2>
+				<h2>Rodrigo Tinani</h2>
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
